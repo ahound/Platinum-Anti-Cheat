@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Kostya\Desktop\Platinum Anticheat NEW\Platinum Anticheat NEW\main.cpp(40,1): warning C4326: return type of 'main' should be 'int' instead of 'boolean'
+  Generating code
+  24 of 244 functions ( 9.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    32 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Platinum Anticheat NEW.vcxproj -> C:\Kostya\Desktop\Platinum Anticheat NEW\Release\Platinum Anticheat NEW.exe

@@ -1,0 +1,7 @@
+﻿  Platinum Anticheat NEW.cpp
+C:\Kostya\Desktop\Platinum Anticheat NEW\Platinum Anticheat NEW\Platinum Anticheat NEW.cpp(10,1): warning C4326: return type of 'main' should be 'int' instead of 'bool'
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 165 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Platinum Anticheat NEW.vcxproj -> C:\Kostya\Desktop\Platinum Anticheat NEW\x64\Release\Platinum Anticheat NEW.exe
