@@ -20,15 +20,6 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="memory.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="stringquery.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="scanstring.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="hwid.h">
       <Filter>Header Files</Filter>
     </ClInclude>

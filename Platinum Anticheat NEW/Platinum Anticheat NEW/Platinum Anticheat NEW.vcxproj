@@ -145,9 +145,6 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="hwid.h" />
-    <ClInclude Include="memory.h" />
-    <ClInclude Include="scanstring.h" />
-    <ClInclude Include="stringquery.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
